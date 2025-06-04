@@ -8,7 +8,6 @@ const Navbar: React.FC = () => {
       <Link href="/">Home</Link>
       <Link href="/users">Users</Link>
       <Link href="/blog">Blog</Link>
-      <Link href="/category">Category</Link>
     </nav>
   );
 };
